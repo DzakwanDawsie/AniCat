@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#329CF1</color>
+    <color name="colorPrimaryVariant">#1E88E5</color>
+    <color name="colorOnPrimary">#1966AC</color>
+    <color name="colorSecondary">#329CF1</color>
+    <color name="colorSecondaryVariant">#1E88E5</color>
+    <color name="colorOnSecondary">#1966AC</color>
+    <color name="layoutBackgroundColor">#f3f7fa</color>
+    <color name="itemBackgroundColor">#ffffff</color>
+    <color name="toolbarWhite">#ffffff</color>
+    <color name="textColor">#3a3a3a</color>
+    <color name="textColorWhite">#ffffff</color>
+    <color name="textColorBlack">#000000</color>
+    <color name="labelColor">#8B8A8A</color>
+</resources>
